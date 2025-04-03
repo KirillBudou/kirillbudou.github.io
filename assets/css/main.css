@@ -1657,6 +1657,7 @@ input, select, textarea {
 
 		body.is-preload #footer {
 			opacity: 0;
+<<<<<<< HEAD
 		}
 
 		.language-switcher {
@@ -1684,3 +1685,6 @@ input, select, textarea {
 			opacity: 0.8;
 		}
 		
+=======
+		}
+>>>>>>> 034fa4746bd74437ae054e0870c44fc63abe7947

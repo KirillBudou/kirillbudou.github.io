@@ -4,10 +4,13 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+<<<<<<< HEAD
 function switchLanguage(selectedPage) {
 	window.location.href = selectedPage;
 }
 
+=======
+>>>>>>> 034fa4746bd74437ae054e0870c44fc63abe7947
 (function($) {
 
 	var	$window = $(window),
@@ -402,4 +405,8 @@ function switchLanguage(selectedPage) {
 						$main._show(location.hash.substr(1), true);
 					});
 
+<<<<<<< HEAD
 })(jQuery);
+=======
+})(jQuery);
+>>>>>>> 034fa4746bd74437ae054e0870c44fc63abe7947
